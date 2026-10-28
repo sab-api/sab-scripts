@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://oblivionhub.xyz/api/paste?id=dad800f6cc72dc1e11b30e8177ec8318&raw=true"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/7a0d8737f9f36b35d485fb0e0c74d249.lua"))()

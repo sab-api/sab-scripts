@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://oblivion-web-snowy.vercel.app/api/paste?id=5bfae9fc2740039c872e706711dcd3f2&raw=true"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/7a0d8737f9f36b35d485fb0e0c74d249.lua"))()

